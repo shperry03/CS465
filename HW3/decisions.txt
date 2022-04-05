@@ -1,0 +1,342 @@
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+4
+4
+2
+0
+0
+0
+3
+2
+2
+1
+1
+0
+0
+0
+0
+1
+3
+2
+3
+2
+2
+0
+3
+0
+1
+0
+0
+1
+4
+2
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3
+2
+2
+2
+0
+0
+1
+3
+2
+0
+0
+3
+2
+2
+2
+3
+4
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+1
+4
+2
+4
+0
+0
+0
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+4
+4
+0
+0
+0
+0
+1
+0
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 750 to 950
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 100 to 200
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 125 to 225
+
+Pluribus: bets 250
+
+Pluribus: bets 1000
+
+Pluribus: checks
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: calls 100
+
+Pluribus: checks
+
+Pluribus: checks
+
+Pluribus: raises 900 to 1400
+
+Pluribus: raises 3750 to 7100
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 150 to 250
+
+Pluribus: calls 550
+
+Pluribus: checks
+
+Pluribus: calls 600
+
+Pluribus: checks
+
+Pluribus: checks
+
+Pluribus: folds
+
+Pluribus: calls 150
+
+Pluribus: folds
+
+Pluribus: raises 150 to 250
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 100 to 200
+
+Pluribus: bets 650
+
+Pluribus: checks
+
+Pluribus: raises 1950 to 2925
+
+Pluribus: bets 6225 and is all-in
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: calls 200
+
+Pluribus: checks
+
+Pluribus: checks
+
+Pluribus: checks
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 125 to 225
+
+Pluribus: calls 475
+
+Pluribus: checks
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: calls 125
+
+Pluribus: checks
+
+Pluribus: checks
+
+Pluribus: checks
+
+Pluribus: calls 200
+
+Pluribus: bets 750
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 100 to 200
+
+Pluribus: folds
+
+Pluribus: raises 900 to 1200
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 125 to 225
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 900 to 1100
+
+Pluribus: bets 1125
+
+Pluribus: checks
+
+Pluribus: bets 3375
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: calls 150
+
+Pluribus: checks
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 100 to 200
+
+Pluribus: checks
+
+Pluribus: bets 112
+
+Pluribus: bets 337
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: folds
+
+Pluribus: raises 100 to 200
+
+Pluribus: folds
+
